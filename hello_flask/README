@@ -1,0 +1,8 @@
+The tutorial is provided by visualstudio.com
+source: https://code.visualstudio.com/docs/python/tutorial-flask#_create-a-project-environment-for-the-flask-tutorial
+
+There are 2 ways to organize the code:
+    + 1. Put your code in 1 file like app.py 
+    + 2. Separate your code into multiple files like hello_app
+
+To run the code we can use Ctrl+F5 or use export set FLASK_APP=webapp/ $ export set FLASK_APP=app.py to run with flask run
